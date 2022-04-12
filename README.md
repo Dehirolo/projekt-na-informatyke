@@ -1,1 +1,2 @@
-# projekt-na-informatyke
+# PORTFOLIO WEBSITE PROJECT
+Project for 
