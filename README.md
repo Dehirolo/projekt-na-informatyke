@@ -21,7 +21,7 @@ Podzielenie strony na pod strony, zmiana menu.
 Zrobienie od zera nowej pod strony z mozliwoscia wyslania wiadomosci do mnie
 * interaktywny przycisk
 
-*naprawa błędów
+* naprawa błędów
 ### Źródła
 * https://freecodecamps.org/
 * https://cdnjs.com/libraries/font-awesome
