@@ -1,1 +1,11 @@
-# projekt-na-informatyke
+# PORTFOLIO WEBSITE PROJECT
+XDXDXDXDX
+XDXDXDX
+XDXD
+## GOALS
+XDXD
+XDXD
+XDXD
+## XD
+DSADSADADAS
+### Sources
