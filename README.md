@@ -9,19 +9,19 @@
 3. Naprawienie ewentualnych błędów oraz poprawienie CSS
 4. Dodanie przycisku ktory zbiera wysłane dane
 ## Wykonanie
-* HTML
+* HTML  
 Stworzenie index.html na podstawie poradnikow z freecodecamps.
-* CSS
+* CSS  
 Skopiowanie oraz customizacja CSS z poradnika freecodecamps.
-* Menu
+* Menu  
 Zrobienie JavaScript'a pod interaktywne menu.
-* Podzial strony
+* Podzial strony  
 Podzielenie strony na pod strony, zmiana menu.
-* Nowa strona "kontakt.html"
+* Nowa strona "kontakt.html"  
 Zrobienie od zera nowej pod strony z mozliwoscia wyslania wiadomosci do mnie
-* interaktywny przycisk
+* interaktywny przycisk  
 
-* naprawa błędów
+* naprawa błędów  
 ### Źródła
 * https://freecodecamps.org/
 * https://cdnjs.com/libraries/font-awesome
