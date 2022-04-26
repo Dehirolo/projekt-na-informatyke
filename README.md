@@ -1,8 +1,10 @@
 # PORTFOLIO WEBSITE PROJECT
+# PROJECTS FOR PORTFOLIO
 ## Cele
 * Nauka html oraz css
 * Stworzenie własnej strony internetowej
 * Strona pod moje własne portfolio
+* Stworzenie 
 ## PLAN
 1. Stworzenie calego html, podstrony etc.
 2. Tworzenie oraz customizacja CSS, javascript.
